@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/yfming93/rrl/raw/gh-pages/image.57x57.png</string>
+					<string><!-- https://yfmingo.oss-cn-beijing.aliyuncs.com/images/image.57x57.png --></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/yfming93/rrl/raw/gh-pages/image.512x512.png</string>
+					<string><!-- https://yfmingo.oss-cn-beijing.aliyuncs.com/images/image.512x512.png --></string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.coin.topcoin</string>
 				<key>bundle-version</key>
-				<string>3.0.1</string>
+				<string>1.1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Topcoin</string>
+				<string>太阳城</string>
 			</dict>
 		</dict>
 	</array>
